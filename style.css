@@ -1,5 +1,29 @@
 .heading {
     background-color: blueviolet;
     color: white;
+    font-family: "Garamond", "Georgia", serif;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    
+}
+
+.center {
+    text-align: center;
+}
+
+.list {
+  display: inline-block;
+  text-align: left;
+}
+
+img {
+    height: auto;
+    width: 350px;
+}
+
+h2 {
     text-align: center;
 }
